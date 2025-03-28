@@ -9,7 +9,7 @@ author_profile: false
 Time
 ======
 
-27 (Sun.) – 29 (Tues.), July
+27 (Sun.) – 29 (Tues.), July, 2025
 
 
 Venue
