@@ -57,7 +57,7 @@ Organizer
 <br /><br /><br />
 
 
-2024 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory
+2025 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory
 
 
 
