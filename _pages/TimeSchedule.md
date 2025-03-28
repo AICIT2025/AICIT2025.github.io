@@ -39,3 +39,18 @@ Day 2
 | 15:20-16:00  | Prof. Qianqian Yang: Highly Efficient Semantics-Oriented Communications with Generative Modeling                 |
 | 16:00-16:20  | Coffee Break               |
 | 16:20-17:30  | Student Poster Presentation |
+
+Day 3
+-----
+
+| Time         | Day 3                 |
+|--------------|-----------------------|
+
+
+Day 4
+-----
+
+| Time         | Day 4                 |
+|--------------|-----------------------|
+
+
