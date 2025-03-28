@@ -33,24 +33,25 @@ Sun Yat-sen University Kaifeng Hotel
 
 No. 588 East Binjiang Road, Haizhu District, Guangzhou, Guangdong, China
 
-Guangzhou Baiyun International Airport
+Guangzhou Baiyun International Airport:
 About 55 mins from hotel by car (38.0 km)
 
 
-Guangzhou Railway Station
+Guangzhou Railway Station:
 About 35 mins from hotel by car (10.1 km)
 
-Guangzhou East Railway Station
+Guangzhou East Railway Station:
 About 38 mins from hotel by car (8.9 km)
 
 By MTR
 -----
 
-SYSU is located adjacent to MTR Kowloon Tong Station and Festival Walk Shopping Centre. It is just a 5-minute walk from MTR station via Festival Walk to the Campus.
+SYSU is located adjacent to MTR Sun Yat-sen University Station and Lujiang Station.
 
+Sun Yat-sen University Station:
+About 22 mins from hotel by foot (1.5 km)
 
-
-
-
+Lujiang Station:
+About 24 mins from hotel by foot (1.6 km)
 
 
