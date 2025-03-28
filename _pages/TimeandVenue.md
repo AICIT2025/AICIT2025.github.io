@@ -17,15 +17,9 @@ Venue
 
 Sun Yat-sen University Kaifeng Hotel, Meeting Room 2, Guangzhou.
 
-![Hall](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7b81e2ac-6500-4865-a4cd-db6dad078135)
+![image](https://github.com/user-attachments/assets/cbcbe58f-fdf3-4e41-8374-4fe5cbe87b5b)
 
 
-Visitor Registration
-=====
-
-To enter the campus, you need to register in the CityUHK visitor registration system in advance:
-
-[https://banweb.cityu.edu.hk/pls/PROD/hwpksvrs_cityu.p_self](https://banweb.cityu.edu.hk/pls/PROD/hwpksvrs_cityu.p_self)
 
 
 Transportation
@@ -35,22 +29,15 @@ Transportation
 By Taxi
 -----
 
-Show the CityUHK taxi card to taxi driver, the card provides the driver with guidance to reach CityUHK.
+Sun Yat-sen University Kaifeng Hotel
 
-![taxi-card_2](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/1cc89f67-3ee3-4096-8a1b-a108eece4c81)
+No. 588 East Binjiang Road, Haizhu District, Guangzhou, Guangdong, China
 
-From Hong Kong International Airport to CityUHK
-
-About 33 kilometers; Estimated travelling time: 30 minutes; Estimated fare 300 HKD.
-
-From West Kowloon Train Station to CityUHK
-
-About 5 kilometers; Estimated travelling time: 15 minutes; Estimated fare 50 HKD.
 
 By MTR
 -----
 
-CityUHK is located adjacent to MTR Kowloon Tong Station and Festival Walk Shopping Centre. It is just a 5-minute walk from MTR station via Festival Walk to the Campus.
+SYSU is located adjacent to MTR Kowloon Tong Station and Festival Walk Shopping Centre. It is just a 5-minute walk from MTR station via Festival Walk to the Campus.
 
 From Hongkong International Airport to CityUHK
 
