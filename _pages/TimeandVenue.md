@@ -15,7 +15,7 @@ Time
 Venue
 ======
 
-Mr and Mrs Lau Tat Chuen Lecture Theatre (LT-5), 4/F University Concourse, Yeung Kin Man Academic Building, City University of Hong Kong (CityUHK), Hong Kong.
+Sun Yat-sen University Kaifeng Hotel, Meeting Room 2, Guangzhou.
 
 ![Hall](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/7b81e2ac-6500-4865-a4cd-db6dad078135)
 
