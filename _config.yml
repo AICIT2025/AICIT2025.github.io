@@ -8,13 +8,13 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "AICIT2024"
+title                    : "AICIT2025"
 title_separator          : ""
 name                     : &name "HKGZTP"
 description              : &description "personal description"
-url                      : https://hkgztp.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://AICIT2025.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "HKGZTP/HKGZTP.github.io"
+repository               : "AICIT2025/AICIT2025.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
@@ -22,7 +22,7 @@ repository               : "HKGZTP/HKGZTP.github.io"
 author:
 #   # Biographic information
   # avatar           : "profile.png"
-    # name             : "AICIT2024"
+    # name             : "AICIT2025"
     # pronouns         : "Time and Venue"
     # bio              : "Speakers"
     # pronouns         : "Time Schedule (Day 1)"
