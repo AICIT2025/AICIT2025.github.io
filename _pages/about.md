@@ -46,7 +46,8 @@ zengyaliu2-c@my.cityu.edu.hk
 Organizer
 =====
 
-|<img width="183" alt="image" src="https://github.com/user-attachments/assets/5150b628-cfdc-4bde-b5ec-b301f24bdb45" />
+|<img width="393" alt="image" src="https://github.com/user-attachments/assets/42d2d296-9a2a-4bb5-a137-d20c738e7b7c" />
+
  | ![image](https://github.com/HKGZTP/HKGZTP.github.io/assets/167737479/6d2ee4ec-2412-4e2c-a8ff-6e328fdf5258) |
 |------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | <center>Sun Yat-sen University</center>                            | <center>IEEE IT Society, <br> Hong Kong chapter <br> Guangzhou chapter <br> Taipei chapter</center>         |
