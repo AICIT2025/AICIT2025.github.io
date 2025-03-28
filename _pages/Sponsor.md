@@ -103,13 +103,13 @@ Diamond Sponsor
 <table style="width: 100%; border-collapse: collapse;">  
 <tr>  
   <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
-    <img src="https://github.com/user-attachments/assets/e41e1685-4d2c-4d54-80eb-b1fb45b52584" style="max-width: 100%; height: auto;">  
+    <img src="https://github.com/user-attachments/assets/712770b6-21d1-482d-a422-d9d7be50a589" style="max-width: 100%; height: auto;">  
   </td>  
 </tr>  
 <tr>  
   <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
     <div style="display: inline-block; text-align: center;">  
-      <p style="margin: 0;">Institute of Network Coding, The Chinese University of Hong Kong</p>  
+      <p style="margin: 0;">Huang Danian</p>  
     </div>  
   </td>  
 </tr>  
