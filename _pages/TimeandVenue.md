@@ -9,7 +9,7 @@ author_profile: false
 Time
 ======
 
-July 20 and 21, 2024
+27 (Sun.) – 29 (Tues.), July
 
 
 Venue
