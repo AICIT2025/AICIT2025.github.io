@@ -20,7 +20,8 @@ This year, our workshop will feature talks by a number of distinguished research
 
 Call for Student Posters
 =====
-![CFP2025](https://github.com/user-attachments/assets/ddd66869-746e-4b03-bc67-1b8764b331fb)
+![CFP2025](https://github.com/user-attachments/assets/139e6c65-45d1-4e10-acf8-696d1464a291)
+
 
 
 Important Dates
