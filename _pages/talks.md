@@ -19,9 +19,9 @@ author_profile: false
 | Farzan Farnia            | The Chinese University of Hong Kong             |  
 | Ziye Ma                  | City University of Hong Kong                    |  
 | Linqi Song               | City University of Hong Kong                    |
-| Chao-Kai Wen             | National Sun Yat-sen University       |  
-| Wenrui Dai               | Shanghai Jiao Tong University                   |  
-| Qianqian Yang            | Zhejiang University                           |  
+| Chao-Kai Wen             | National Sun Yat-sen University                 |  
+| Chu-Hsiang Huang         | National Taiwan University                      |  
+| Ping-Chun Hsieh          | National Yang Ming Chiao Tung University        |  
 | Qiaosheng Zhang          | Shanghai Artificial Intelligence Laboratory   |  
 | Xueyan Niu               | Theory Lab, 2012 Labs, Huawei Technologies     |  
   
