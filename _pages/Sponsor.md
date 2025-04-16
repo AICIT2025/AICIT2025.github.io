@@ -39,7 +39,7 @@ Sponsor List
 <tr>  
   <td style="text-align: center; padding: 10px; border: 1px solid #ddd;">  
     <div style="display: inline-block; text-align: center;">  
-      <p style="margin: 0;">Huang Danian</p>  
+      <p style="margin: 0;">Huang Danian Chaspark</p>  
     </div>  
   </td>  
 </tr>  
