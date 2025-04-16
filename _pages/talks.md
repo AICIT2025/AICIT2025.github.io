@@ -22,8 +22,7 @@ author_profile: false
 | Chao-Kai Wen             | National Sun Yat-sen University                 |  
 | Chu-Hsiang Huang         | National Taiwan University                      |  
 | Ping-Chun Hsieh          | National Yang Ming Chiao Tung University        |  
-| Qiaosheng Zhang          | Shanghai Artificial Intelligence Laboratory   |  
-| Xueyan Niu               | Theory Lab, 2012 Labs, Huawei Technologies     |  
+| Hsin-Po Wang             | National Taiwan University                      |  
   
 ---  
   
