@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "2025 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT2025)"
+title: "2025 Guangzhou, Hong Kong and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory (AICIT2025)"
 author_profile: false
 ---
 
 
-The workshop is hosted by the Sun Yat-sen University (SYSU) and IEEE Information Theory Society Hong Kong, Guangzhou, and Taipei Chapters. 
+The workshop is hosted by the Sun Yat-sen University (SYSU) and IEEE Information Theory Society Guangzhou, Hong Kong, and Taipei Chapters. 
 
-The goal is to bring together leading researchers in Hong Kong, Guangzhou and Taipei regions to explore deep unsolved theoretical problems in information theory, communication, artificial intelligence and related fields.
+The goal is to bring together leading researchers in Guangzhou, Hong Kong, and Taipei regions to explore deep unsolved theoretical problems in information theory, communication, artificial intelligence and related fields.
 
 This year, our workshop will feature talks by a number of distinguished researchers.
 
@@ -39,9 +39,7 @@ Note: If you have a poster, please print it with the A0 size (841mm (W) x 1189mm
 Contact Us
 =====
 
-tanli@hsu.edu.hk
-
-zengyaliu2-c@my.cityu.edu.hk
+itguangzhou@163.com
 
 Organizer
 =====
@@ -55,7 +53,7 @@ Organizer
 <br /><br /><br />
 
 
-2025 Hong Kong, Guangzhou and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory
+2025 Guangzhou, Hong Kong, and Taipei Joint Workshop on Artificial Intelligence, Communications and Information Theory
 
 
 
