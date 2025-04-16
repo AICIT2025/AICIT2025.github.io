@@ -17,15 +17,10 @@ This year, our workshop will feature talks by a number of distinguished research
 <strong> Venue </strong>: Sun Yat-sen University Kaifeng Hotel, Meeting Room 2, Guangzhou
 
 
-Download the [Conference Handbook](https://qr61.cn/on1kVO/qEEeE5A) for more details.
-
-
-
 
 Call for Student Posters
 =====
-![CallForPosters-WithBoard](https://github.com/user-attachments/assets/93ff4602-1215-459a-923f-35aaadb250af)
-
+Coming soon...
 
 Important Dates
 =====
