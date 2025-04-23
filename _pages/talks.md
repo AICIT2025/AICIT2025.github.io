@@ -133,3 +133,25 @@ His research interests include statistical signal processing, machine learning f
 [https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang](https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang)
 
 
+Dr. Hanxu Hou
+-----
+
+<img width="142" alt="image" src="https://github.com/user-attachments/assets/ae4f553d-48a8-45e5-b6b4-db83edeb04f4" />
+
+
+Hanxu Hou received the B.Eng. degree in Information Security from Xidian University, Xian, China, in 2010, and Ph.D. degrees in the Dept. of Information Engineering from The Chinese University of Hong Kong in 2015 and in the School of Electronic and Computer Engineering from Peking University in 2016. He is currently with Dongguan University of Technology, and Senior Researcher in Theory Lab of Hong Kong Research Center, HUAWEI. He was a recipient of the 2020 Chinese Information Theory Young Rising Star Award by China Information Theory Society. He was recognized as an Exemplary Reviewer 2020 in IEEE Transactions on Communications. His research interests include coding theory and coding for distributed storage systems.
+
+
+Professor Li Congduan
+-----
+
+<img width="109" alt="image" src="https://github.com/user-attachments/assets/338793d9-bc72-455f-9ba0-055a089100e6" />
+
+Dr. Li Congduan, Associate Professor and Doctoral Supervisor at Sun Yat sen University with the Hundred Talents Program, Young Rising Star in Information Theory at the China Electronics Society, Overseas High-level Talent in Shenzhen, IEEE Senior Member, and Member of the China Internet of Things Youth Technical Committee. His research focuses on communication networks and artificial intelligence technology. More than 70 academic papers have been published on related topics and over ten Chinese invention patents have been authorized. In the past 5 years, he has participated many projects as PI, such as the National Natural Science Foundation, the National Key R&D Program, key project of basic and applied basic research in Guangdong Province, key fund for scientific and technological innovation in Shenzhen, etc.
+
+**Title:** Distributed Computation and Learning meets Network Coding
+
+**Abstract:** Network coding is a promising technology to increase the network throughput, especially in the multi-source communication networks. It can also be used in distributed systems such as storage, computation, and machine learning. In this talk, we will share some new results in distributed computation and learning systems with emphasis on the applications of network coding technique to guarantee the fault-tolerance, increase the efficiency and privacy in them.
+
+
+
