@@ -44,7 +44,7 @@ Dr. Vontobel was an Associate Editor for the IEEE Transactions on Information Th
 
 [https://www.ie.cuhk.edu.hk/faculty/vontobel-pascal-olivier/](https://www.ie.cuhk.edu.hk/faculty/vontobel-pascal-olivier/)
 
-Dr. Chao-Kai Wen
+Professor Chao-Kai Wen
 -----
 
 <img width="123" alt="image" src="https://github.com/user-attachments/assets/77372516-ec41-4624-95e9-d2e9bd69dee2" />
@@ -57,7 +57,7 @@ Dr. Wen's primary research focus is on communication signal processing. He curre
 [https://www.ee.nsysu.edu.tw/teacher/teachers.asp?tel=4488](https://www.ee.nsysu.edu.tw/teacher/teachers.asp?tel=4488)
 
 
-Farzan Farnia
+Professor Farzan Farnia
 -----
 
 <img width="158" alt="image" src="https://github.com/user-attachments/assets/a04c9b1c-be56-4bc5-9f08-88fd958da557" />
@@ -69,17 +69,67 @@ Farzan Farnia
 **Abstract:** Evaluating generative models remains a core challenge in machine learning, especially in the reference-free setting where no ground-truth samples are available. In this talk, I will present recent work on developing scalable and adaptive frameworks for evaluating generative models. We first introduce a method that leverages random Fourier features to efficiently assess the quality of generated samples without relying on reference datasets. Building on this, we explore an online evaluation approach based on multi-armed bandits, allowing for dynamic model selection under limited feedback. I will also discuss ongoing developments and open challenges in building practical and reliable evaluation tools for generative models.
 
 
-Chu-Hsiang Huang
+Professor Chu-Hsiang Huang
 -----
+
+<img width="168" alt="image" src="https://github.com/user-attachments/assets/d1662e42-e8f8-42c1-aa49-66fd0aaaef07" />
+
 
 Chu-Hsiang Huang received B.S. and M.S. degrees in Electrical Engineering from National Taiwan University, Taiwan in 2007 and 2009, respectively. and his Ph.D. degree in Electrical Engineering from University of California, Los Angeles in 2015. He is now with National Taiwan University (NTU) as an assistant professor. Before join NTU, he was working in Qualcomm Technologies, Inc. as a RAN working group delegate for 3GPP Standard Organization. Besides representing Qualcomm in 3GPP standard meetings, he is working on product development projects including multi-user interference mitigation, energy efficient receiver and demodulation algorithm for Qualcomm flagship modems as a senior staff engineer. He was a research assistant for NTU-INTEL research center in Taiwan in 2010. His research interest includes next generation wireless communication system design, communication system standardization, artificial intelligence and machine learning, statistical communication theory.
 
 [https://www.ee.ntu.edu.tw/bio2.php?teacher_id=27754&p=3](https://www.ee.ntu.edu.tw/bio2.php?teacher_id=27754&p=3)
 
 
+Professor Hsin-Po Wang
+-----
+
+<img width="180" alt="image" src="https://github.com/user-attachments/assets/506e09d6-5b8d-4b7f-a569-d1c40f4c8fb1" />
+
+Hsin-Po Wang is an Assistant Professor in EE and GICE at National Taiwan University. His research interests lie in information theory and coding theory, where he applies techniques in algebra, combinatorics, and probability theory to polar codes, group testing, distributed storage, and distributed computation. Hsin-Po earned his B.Sc. in Mathematics at National Taiwan University and completed his Ph.D. in Mathematics at the University of Illinois Urbana-Champaign. He has held research positions at UC San Diego, UC Berkeley, and the Simons Institute for the Theory of Computing.
 
 
+Professor Ziye Ma
+-----
+
+<img width="165" alt="image" src="https://github.com/user-attachments/assets/7afcda0b-5385-4977-9a0a-e60342b03b8a" />
+
+Ziye Ma is currently a presidential assistant professor in the computer science department at the City University of Hong Kong. Prior to this, he completed his PhD in the EECS department at UC Berkeley under the guidance of Somayeh Sojoudi and Javad Lavaei. His research is mostly focused on non-convex problems in machine learning, low-rank matrix recovery, and robustness in ML. He serves as regular reviewers of top ML venues and several of his papers received oral designations in these conferences.
+
+**Title:** Leveraging Change of Parametrization to Navigate Non-convex Optimization Landscape
+
+**Abstract:** The training process of modern machine learning models is essentially the solving of non-convex optimization problems. One major challenge that comes with non-convex objectives is the ubiquitous presence of degenerate critical points such as saddle points and spurious solutions. In order to better solve non-convex problems, we study how these degenerate points can be escaped, under the context of matrix sensing, which is a benchmark non-convex problem that is equivalent to the training of a two layer quadratic neural network. We first discuss how increase of parametrization (a.k.a making the model larger) can convert spurious local minima into saddle points; then we discuss how we could simulate this effect without actually increasing parametrization by projecting the high dimensional tensor escape direction back into matrix space.
 
 
+Professor Linqi Song
+-----
+
+<img width="142" alt="image" src="https://github.com/user-attachments/assets/ab9da506-e81f-4b40-91f3-c06dfb0cbbdb" />
+
+Linqi Song is an Assistant Professor in the Computer Science Department at the City University of Hong Kong. Prior to that, he was a Postdoctoral Scholar in the Department of Electrical and Computer Engineering at the University of California, Los Angeles (UCLA). He received the Ph.D. degree in Electrical Engineering from UCLA, and the B.S. and M.S. degrees in Electronic Engineering from Tsinghua University. His research interests encompass information theory and coding theory, communications, machine learning and big data.
+
+[https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html)
+
+
+Professor Anand D. Sarwate
+-----
+
+<img width="102" alt="image" src="https://github.com/user-attachments/assets/09fbfeed-db3d-435c-9f3a-8050304f6436" />
+
+I am an Associate Professor in the Department of Electrical and Computer Engineering at Rutgers, The State University of New Jersey. I also am a member of the graduate faculty in the Department of Computer Science and the Department of Statistics. I like to work on problems that involve probability, mathematical statistics, and optimization, with applications in information theory, communication, signal processing, and machine learning. I’m particularly interested in how these things intersect in the context of distributed/decentralized systems with constraints like privacy, bandwidth, latency, power, and so on.
+
+Area of Expertise: Distributed optimization and signal processing, machine learning and statistics, information theory, and privacy-preserving data analysis.
+
+
+Dr. Ming-Hsun Yang
+-----
+
+<img width="112" alt="image" src="https://github.com/user-attachments/assets/83765313-a1fe-4a00-9c00-210c0121e1ca" />
+
+
+Ming-Hsun Yang received the Ph.D. degree in communications engineering from the National Yang Ming Chiao Tung University, Taiwan, in 2018. From 2019 to 2021, he was a Postdoctoral Researcher with the Institute of Communications Engineering, National Yang Ming Chiao Tung University. Since 2022, he has been with the Department of Communication Engineering at National Central University, where he is currently an Assistant Professor. 
+
+His research interests include statistical signal processing, machine learning for wireless communications, and compressed sensing with applications in wireless sensor networks. In 2024, Dr. Yang received the Best Paper Award for Young Scholars from the IEEE IT/COM Society Taipei/Tainan Chapters.
+
+[https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang](https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang)
 
 
