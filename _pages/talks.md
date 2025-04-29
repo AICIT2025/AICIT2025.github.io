@@ -110,7 +110,7 @@ Professor Linqi Song
 
 <img width="142" alt="image" src="https://github.com/user-attachments/assets/ab9da506-e81f-4b40-91f3-c06dfb0cbbdb" />
 
-Linqi Song is an Assistant Professor in the Computer Science Department at the City University of Hong Kong. Prior to that, he was a Postdoctoral Scholar in the Department of Electrical and Computer Engineering at the University of California, Los Angeles (UCLA). He received the Ph.D. degree in Electrical Engineering from UCLA, and the B.S. and M.S. degrees in Electronic Engineering from Tsinghua University. His research interests encompass information theory and coding theory, communications, machine learning and big data.
+Linqi Song is an Associate Professor in the Computer Science Department at the City University of Hong Kong. Prior to that, he was a Postdoctoral Scholar in the Department of Electrical and Computer Engineering at the University of California, Los Angeles (UCLA). He received the Ph.D. degree in Electrical Engineering from UCLA, and the B.S. and M.S. degrees in Electronic Engineering from Tsinghua University. His research interests encompass information theory and coding theory, communications, machine learning and big data.
 
 [https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html)
 
