@@ -11,6 +11,7 @@ author_profile: false
   
 | Candidate                | Institute                                       |  
 |--------------------------|-------------------------------------------------|  
+| Anand D. Sarwate         |The State University of New Jersey               |
 | Shu-Tao Xia              | Tsinghua University                             |  
 | Shancheng Zhao           | Jinan University                                |  
 | Suihua Cai               | Sun Yat-sen University                          |  
@@ -28,6 +29,16 @@ author_profile: false
   
 # Brief Introduction  
 ---
+
+Professor Anand D. Sarwate (Distinguished Lecture of ITSoc)
+-----
+
+<img width="102" alt="image" src="https://github.com/user-attachments/assets/09fbfeed-db3d-435c-9f3a-8050304f6436" />
+
+I am an Associate Professor in the Department of Electrical and Computer Engineering at Rutgers, The State University of New Jersey. I also am a member of the graduate faculty in the Department of Computer Science and the Department of Statistics. I like to work on problems that involve probability, mathematical statistics, and optimization, with applications in information theory, communication, signal processing, and machine learning. I’m particularly interested in how these things intersect in the context of distributed/decentralized systems with constraints like privacy, bandwidth, latency, power, and so on.
+
+Area of Expertise: Distributed optimization and signal processing, machine learning and statistics, information theory, and privacy-preserving data analysis.
+
 
 
 Shancheng Zhao
@@ -113,16 +124,6 @@ Professor Linqi Song
 Linqi Song is an Associate Professor in the Computer Science Department at the City University of Hong Kong. Prior to that, he was a Postdoctoral Scholar in the Department of Electrical and Computer Engineering at the University of California, Los Angeles (UCLA). He received the Ph.D. degree in Electrical Engineering from UCLA, and the B.S. and M.S. degrees in Electronic Engineering from Tsinghua University. His research interests encompass information theory and coding theory, communications, machine learning and big data.
 
 [https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html)
-
-
-Professor Anand D. Sarwate
------
-
-<img width="102" alt="image" src="https://github.com/user-attachments/assets/09fbfeed-db3d-435c-9f3a-8050304f6436" />
-
-I am an Associate Professor in the Department of Electrical and Computer Engineering at Rutgers, The State University of New Jersey. I also am a member of the graduate faculty in the Department of Computer Science and the Department of Statistics. I like to work on problems that involve probability, mathematical statistics, and optimization, with applications in information theory, communication, signal processing, and machine learning. I’m particularly interested in how these things intersect in the context of distributed/decentralized systems with constraints like privacy, bandwidth, latency, power, and so on.
-
-Area of Expertise: Distributed optimization and signal processing, machine learning and statistics, information theory, and privacy-preserving data analysis.
 
 
 Dr. Ming-Hsun Yang
