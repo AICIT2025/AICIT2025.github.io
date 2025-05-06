@@ -34,11 +34,18 @@ National Taiwan University
 
 TPC Chairs
 =====
-韩国军 教授 广东工业大学
 
-黃昱智 教授 國立陽明交通大學
+Guojun Han
+-----
+Guangdong University of Technology
 
-李卓霆 助理教授 香港中文大學
+Yu-Chih Huang
+-----
+National Yang Ming Chiao Tung University
+
+Cheuk Ting Li
+-----
+The Chinese University of Hong Kong
 
 Finance Chair
 =====
@@ -47,11 +54,16 @@ Xijun Wang
 -----
 Sun Yat-sen University
 
-会务委员会
------
-蔡穗华 副教授 中山大学
+Local Arrangement Chairs
+=====
 
-苏碧君 老师 中山大学
+Suihua Cai
+-----
+Sun Yat-sen University
+
+Bijun Su
+-----
+Sun Yat-sen University
 
 Publicity Chair
 =====
