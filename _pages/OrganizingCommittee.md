@@ -69,7 +69,7 @@ Bijun Su
 -----
 Sun Yat-sen University
 
-Publicity Chair
+Publicity Chairs
 =====
 
 Congduan Li
