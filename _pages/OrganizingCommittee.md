@@ -9,9 +9,13 @@ author_profile: false
 
 Steering Committee
 =====
-陈伯宁 教授 國立陽明交通大學
+Poning Chen
+-----
+National Yang Ming Chiao Tung University
 
-范平志 教授 西南交通大学 (原副校长、 IEEE Fellow)
+Pingzhi Fan
+-----
+Southwest Jiaotong University
 
 Raymond Wai Ho Yeung
 -----
