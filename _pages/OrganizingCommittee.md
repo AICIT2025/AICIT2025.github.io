@@ -1,25 +1,32 @@
 ---
 layout: archive
 permalink: /OrganizingCommittee/
-title: "委员会"
+title: "Organizing Committee"
 author_profile: false
 #redirect_from:
 #  - /wordpress/blog-posts/
 ---
 
-指导委员会
------
+Steering Committee
+=====
 陈伯宁 教授 國立陽明交通大學
 
 范平志 教授 西南交通大学 (原副校长、 IEEE Fellow)
 
-杨伟豪 教授 香港中文大學 (香农奖得主、 IEEE Fellow)
+Raymond Wai Ho Yeung
+=====
+The Chinese University of Hong Kong
 
 大会联合主席
------
-陈 立 教授 中山大学
+=====
 
-宋林琦 副教授 香港城市大学
+Li Chen
+-----
+Sun Yat-sen University
+
+Linqi Song
+-----
+City University of Hong Kong
 
 王奕翔 教授 國立臺灣大學
 
