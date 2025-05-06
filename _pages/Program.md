@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Program"
-permalink: /TimeSchedule/
+permalink: /Program/
 author_profile: false
 ---
 
