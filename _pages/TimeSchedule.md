@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Time Schedule"
+title: "Program"
 permalink: /TimeSchedule/
 author_profile: false
 ---
