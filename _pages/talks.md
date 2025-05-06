@@ -11,8 +11,8 @@ author_profile: false
   
 | Candidate                | Institute                                       |  
 |--------------------------|-------------------------------------------------|  
-| Anand D. Sarwate         |The State University of New Jersey               |
-| Shu-Tao Xia              | Tsinghua University                             |  
+| Anand D. Sarwate         | The State University of New Jersey              |
+| Hanxu Hou                | Dongguan University of Technology               |  
 | Shancheng Zhao           | Jinan University                                |  
 | Suihua Cai               | Sun Yat-sen University                          |  
 | Congduan Li              | Sun Yat-sen University                          |  
@@ -22,7 +22,7 @@ author_profile: false
 | Linqi Song               | City University of Hong Kong                    |
 | Chao-Kai Wen             | National Sun Yat-sen University                 |  
 | Chu-Hsiang Huang         | National Taiwan University                      |  
-| Ping-Chun Hsieh          | National Yang Ming Chiao Tung University        |  
+| Ming-Hsun Yang           |  National Central University                    |  
 | Hsin-Po Wang             | National Taiwan University                      |  
   
 ---  
@@ -41,7 +41,7 @@ Area of Expertise: Distributed optimization and signal processing, machine learn
 
 
 
-Shancheng Zhao
+Professor Shancheng Zhao
 -----
 
 **Bio:** 
