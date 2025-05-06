@@ -9,16 +9,20 @@ author_profile: false
 
 Steering Committee
 =====
+
 Po-Ning Chen
 -----
+
 National Yang Ming Chiao Tung University
 
 Pingzhi Fan
 -----
+
 Southwest Jiaotong University
 
 Raymond Wai Ho Yeung
 -----
+
 The Chinese University of Hong Kong
 
 General Chairs
