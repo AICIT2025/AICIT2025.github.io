@@ -9,7 +9,7 @@ author_profile: false
 
 Steering Committee
 =====
-Poning Chen
+Po-Ning Chen
 -----
 National Yang Ming Chiao Tung University
 
