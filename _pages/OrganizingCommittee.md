@@ -1,7 +1,7 @@
 ---
 layout: archive
 permalink: /OrganizingCommittee/
-title: "Organizing Committee"
+title: "委员会"
 author_profile: false
 #redirect_from:
 #  - /wordpress/blog-posts/
