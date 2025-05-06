@@ -10,8 +10,8 @@ main:
   - title: "Time and Venue"
     url: /TimeandVenue/    
     
-  - title: "Time Schedule"
-    url: /TimeSchedule/
+  - title: "Program"
+    url: /Program/
         
   - title: "Organizing Committee"
     url: /OrganizingCommittee/
