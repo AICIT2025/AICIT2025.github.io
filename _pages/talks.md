@@ -126,7 +126,7 @@ Linqi Song is an Associate Professor in the Computer Science Department at the C
 [https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html](https://scholars.cityu.edu.hk/en/persons/linqi-song(a665d7a3-8847-404d-a56a-2b10b470327c).html)
 
 
-Dr. Ming-Hsun Yang
+Professor Ming-Hsun Yang
 -----
 
 <img width="112" alt="image" src="https://github.com/user-attachments/assets/83765313-a1fe-4a00-9c00-210c0121e1ca" />
