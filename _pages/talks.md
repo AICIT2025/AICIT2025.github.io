@@ -139,7 +139,7 @@ His research interests include statistical signal processing, machine learning f
 [https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang](https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang)
 
 
-Dr. Hanxu Hou
+Professor Hanxu Hou
 -----
 
 <img width="142" alt="image" src="https://github.com/user-attachments/assets/ae4f553d-48a8-45e5-b6b4-db83edeb04f4" />
