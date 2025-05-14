@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/e583c11a-aa43-4705-b8d7-6edaba865d39)---
+---
 layout: archive
 permalink: /registration/
 title: "Registration"
