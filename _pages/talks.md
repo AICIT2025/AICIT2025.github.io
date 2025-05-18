@@ -122,7 +122,7 @@ Professor Ziye Ma
 
 <img width="165" alt="image" src="https://github.com/user-attachments/assets/7afcda0b-5385-4977-9a0a-e60342b03b8a" />
 
-Ziye Ma is currently a presidential assistant professor in the computer science department at the City University of Hong Kong. Prior to this, he completed his PhD in the EECS department at UC Berkeley under the guidance of Somayeh Sojoudi and Javad Lavaei. His research is mostly focused on non-convex problems in machine learning, low-rank matrix recovery, and robustness in ML. He serves as regular reviewers of top ML venues and several of his papers received oral designations in these conferences.
+**Bio:** Ziye Ma is currently a presidential assistant professor in the computer science department at the City University of Hong Kong. Prior to this, he completed his PhD in the EECS department at UC Berkeley under the guidance of Somayeh Sojoudi and Javad Lavaei. His research is mostly focused on non-convex problems in machine learning, low-rank matrix recovery, and robustness in ML. He serves as regular reviewers of top ML venues and several of his papers received oral designations in these conferences.
 
 **Title:** Leveraging Change of Parametrization to Navigate Non-convex Optimization Landscape
 
