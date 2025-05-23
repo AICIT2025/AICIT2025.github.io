@@ -80,12 +80,17 @@ Professor Chao-Kai Wen
 
 <img width="123" alt="image" src="https://github.com/user-attachments/assets/77372516-ec41-4624-95e9-d2e9bd69dee2" />
 
-**Bio:** 
+**Bio:**
 Dr. Chao-Kai Wen, a professor at the National Sun Yat-sen University's Institute of Communication Engineering, is an IEEE Fellow and a Highly Cited Researcher by Clarivate Analytics. He served as the Director of the Institute of Communication Engineering at National Sun Yat-sen University from 2018 to 2021 and as the Vice Dean of the College of Engineering from 2020 to 2023. Prior to joining the university, he worked as an engineer at the Industrial Technology Research Institute (ITRI) and MediaTek (MTK) from 2004 to 2009.
 
 Dr. Wen's primary research focus is on communication signal processing. He currently serves as an editor, associate editor, and guest editor for several IEEE journals, including the IEEE Transactions on Wireless Communications, IEEE Transactions on Communications, IEEE Wireless Communications Letters, IEEE Communications Letters, and IEEE Communication Magazine. He has received multiple awards, including the 2016 GLOBECOM and 2022 ICC Best Paper Awards, the 2023 Jack Neubauer Memorial Award, and the Best Editor Award for both IEEE Wireless Communications Letters and IEEE Communications Letters.
 
-[https://www.ee.nsysu.edu.tw/teacher/teachers.asp?tel=4488](https://www.ee.nsysu.edu.tw/teacher/teachers.asp?tel=4488)
+
+**Title:**
+End-User MIMO Evolution toward 6G
+
+**Abstract:**
+In 6G, the trend of transitioning from massive antenna elements to even more massive ones is continued. However, installing additional antennas in the limited space of user equipment (UE) is challenging, resulting in limited capacity scaling gain for end users, despite network side support for increasing numbers of antennas. To address this issue, we propose an end-user-centric collaborative MIMO (UE-CoMIMO) framework that groups several fixed or portable devices to provide a virtual abundance of antennas. This talk outlines how advanced L1 relays and conventional relays enable device collaboration to offer communication, localization, and sensing enhancements.
 
 
 Professor Farzan Farnia
