@@ -111,9 +111,17 @@ Professor Chu-Hsiang Huang
 <img width="168" alt="image" src="https://github.com/user-attachments/assets/d1662e42-e8f8-42c1-aa49-66fd0aaaef07" />
 
 
-Chu-Hsiang Huang received B.S. and M.S. degrees in Electrical Engineering from National Taiwan University, Taiwan in 2007 and 2009, respectively. and his Ph.D. degree in Electrical Engineering from University of California, Los Angeles in 2015. He is now with National Taiwan University (NTU) as an assistant professor. Before join NTU, he was working in Qualcomm Technologies, Inc. as a RAN working group delegate for 3GPP Standard Organization. Besides representing Qualcomm in 3GPP standard meetings, he is working on product development projects including multi-user interference mitigation, energy efficient receiver and demodulation algorithm for Qualcomm flagship modems as a senior staff engineer. He was a research assistant for NTU-INTEL research center in Taiwan in 2010. His research interest includes next generation wireless communication system design, communication system standardization, artificial intelligence and machine learning, statistical communication theory.
+**Bio:**
+Chu-Hsiang Huang received B.S. and M.S. degrees in Electrical Engineering from National Taiwan University, Taiwan in 2007 and 2009, respectively. and his Ph.D. degree in Electrical Engineering from University of California, Los Angeles in 2015. He is now with National Taiwan University (NTU) as an assistant professor. Before join NTU, he was working in Qualcomm Technologies, Inc. as a RAN working group delegate for 3GPP Standard Organization. Besides representing Qualcomm in 3GPP standard meetings, he is working on product development projects including multi-user interference mitigation, energy efficient receiver and demodulation algorithm for Qualcomm flagship modems as a senior staff engineer. He was a research assistant for NTU-INTEL research center in Taiwan in 2010. His research interest includes next generation wireless communication system design, communication system standardization, artificial intelligence and machine learning, statistical communication theory .
 
-[https://www.ee.ntu.edu.tw/bio2.php?teacher_id=27754&p=3](https://www.ee.ntu.edu.tw/bio2.php?teacher_id=27754&p=3)
+
+**Title:**
+Air-Interface Design for Life Cycle Management and Interoperability of AI/ML Models in Wireless Communication Systems
+
+ 
+
+**Abstract:**
+The performance improvement by adapting AI models in the communication systems is widely recognized by the research communities, and it leads to the standardization of air-interface design enabling wider and more efficient application of AI models in the communication system. During the standardization discussion, performance guarantee for AI models operating in different communication conditions/configurations is intensively studied. Model size limitation due to the storage and processing capability constraints of the mobile devices brings additional concerns of the generalizability of the AI models against the changing environments. Therefore, life cycle management (LCM) becomes essential for AI-model-based transceiver algorithms to manage model adaptation and updating based on different monitoring and statistical analysis functionalities, and guarantee the transceiver algorithm performance across various environments and configurations. When considering two-sided model, in which the AI models in BS and UE collaborate to implement the desired functionalities, interoperability across BS and UE side models is brought into the model management discussion. Since the AI models on the BS and the UE are interacting with each other, matching the AI models to ensure the correct execution of the designated functionalities becomes a new challenge when the AI models on the two sides are independently developed by different entities. In this talk, we provide an overview of 3GPP standardization progress on the general framework for LCM functionality development, and the preliminary air-interface design of functionalities like monitoring for specific use cases. In addition, we cover the interoperability perspective of model management focusing on two-sided model by going through the evaluations of specification-aided collaborative development process and verification/testing procedures. We conclude the talk by reviewing potential future directions of the LCM development and interoperable design from the air-interface specification perspective.
 
 
 Professor Hsin-Po Wang
@@ -121,7 +129,17 @@ Professor Hsin-Po Wang
 
 <img width="180" alt="image" src="https://github.com/user-attachments/assets/506e09d6-5b8d-4b7f-a569-d1c40f4c8fb1" />
 
+**Bio:**
 Hsin-Po Wang is an Assistant Professor in EE and GICE at National Taiwan University. His research interests lie in information theory and coding theory, where he applies techniques in algebra, combinatorics, and probability theory to polar codes, group testing, distributed storage, and distributed computation. Hsin-Po earned his B.Sc. in Mathematics at National Taiwan University and completed his Ph.D. in Mathematics at the University of Illinois Urbana-Champaign. He has held research positions at UC San Diego, UC Berkeley, and the Simons Institute for the Theory of Computing.
+
+
+**Title:**
+Sculpting Rational Distributions Accurately and Efficiently
+
+**Abstract:**
+Simulating an arbitrary discrete distribution $D \in [0, 1]^n$ using fair coin tosses incurs trade-offs between entropy complexity and space and time complexity.  Shannon's theory suggests that $H(D)$ tosses are necessary and sufficient, but does not guarantee exact distribution.  Knuth and Yao showed that a decision tree consumes fewer than $H(D) + 2$ tosses for one exact sample.  Drapper and Saad's recent work addresses the space and time aspect, showing that $H(D) + 2$ tosses, $O(n \log(n) \log(m))$ memory, and $O(H(D))$ operations are all it costs, where $m$ is the common denominator of the probability masses in $D$ and $n$ is the number of possible outcomes.
+
+In this talk, we show how to recycle leftover entropy to break the ``$+2$'' barrier.  With $O((n + 1/\varepsilon) \log(m/\varepsilon))$ memory and $O(\log(m/\varepsilon)^2 / \varepsilon)$ operations, the entropy cost is reduced to $H(D) + \varepsilon$, proving Shannon right.
 
 
 Professor Ziye Ma
@@ -157,12 +175,15 @@ Professor Ming-Hsun Yang
 <img width="112" alt="image" src="https://github.com/user-attachments/assets/83765313-a1fe-4a00-9c00-210c0121e1ca" />
 
 
+**Bio:**
 Ming-Hsun Yang received the Ph.D. degree in communications engineering from the National Yang Ming Chiao Tung University, Taiwan, in 2018. From 2019 to 2021, he was a Postdoctoral Researcher with the Institute of Communications Engineering, National Yang Ming Chiao Tung University. Since 2022, he has been with the Department of Communication Engineering at National Central University, where he is currently an Assistant Professor. 
-
 His research interests include statistical signal processing, machine learning for wireless communications, and compressed sensing with applications in wireless sensor networks. In 2024, Dr. Yang received the Best Paper Award for Young Scholars from the IEEE IT/COM Society Taipei/Tainan Chapters.
 
-[https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang](https://scholars.ncu.edu.tw/en/persons/ming-hsun-yang)
+**Title:**
+Sparse Affine Sampling for Ambiguity-Free and Efficient Sparse Phase Retrieval
 
+**Abstract:**
+Conventional sparse phase retrieval schemes can recover sparse signals from the magnitude of linear measurements only up to a global phase ambiguity. In this talk, we will introduce a novel approach that instead utilizes the magnitude of affine measurements to achieve ambiguity-free signal reconstruction. The proposed method relies on two-stage approach that consists of support identification followed by the exact recovery of nonzero signal entries. In the noise-free case, perfect support identification using a simple counting rule is guaranteed subject to a mild condition on the signal sparsity, and subsequent exact recovery of the nonzero signal entries can be obtained in closed-form. The proposed approach is then extended to the bounded noise scenario. In this setting, perfect support recovery still holds under mild conditions on the noise power, and robust signal reconstruction up to a bounded error can be achieved using linear least-squares estimation. The obtained analytic performance guarantee also sheds light on the construction of the sensing matrix and bias vector. In particular, we show that a near optimal performance can be achieved with high probability using a random construction scheme.
 
 Professor Hanxu Hou
 -----
