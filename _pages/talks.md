@@ -44,6 +44,9 @@ Area of Expertise: Distributed optimization and signal processing, machine learn
 Professor Shancheng Zhao
 -----
 
+<img width="70" alt="image" src="https://github.com/user-attachments/assets/740779b2-cbab-4e6e-9be3-da9a5d1b25b8" />
+
+
 **Bio:** 
 Shancheng Zhao received the bachelor’s degree in software engineering and Ph.D. degree in communication and information systems from Sun Yat-sen University, Guangzhou, China, in 2009 and 2014, respectively. From 2013 to 2014, he was a Graduate Visiting Student with the University of California at Los Angeles, Los Angeles, CA, USA. He is currently a Professor and Vice Dean of the College of Information Science and Technology, Jinan University, Guangzhou. His current research interests include finite-length codes, spatially coupled codes, and their applications. He was a co-recipient of the Best Paper Award at the IEEE GlobeCom. He serves as an Associate Editor for IET Quantum Communication, Physical Communication (Elsevier), and Alexandria Engineering Journal.
 
