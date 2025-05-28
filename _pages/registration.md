@@ -10,6 +10,5 @@ All attendees must <a href="https://forms.office.com/r/PTiHsBfg4x" target="_blan
 
 **Accommodation**
 
-AICIT does not provide a reservation service or room block. All participants are responsible for booking their own accommodation.
-
+We offer accommodation options available for booking by conference participants. Please note that accommodation fees are not included and must be covered by participants themselves. If you wish to reserve a room, please make your selection during the registration process.
 
