@@ -10,5 +10,11 @@ All attendees must <a href="https://forms.office.com/r/PTiHsBfg4x" target="_blan
 
 **Accommodation**
 
-We offer accommodation options available for booking by conference participants. Please note that accommodation fees are not included and must be covered by participants themselves. If you wish to reserve a room, please make your selection during the registration process.
+AICIT has a limited room block in the conference hotel, which is “first come, first served”. We can help to make the reservation according to the registration and you settle the payment upon arrival. 
 
+Room type
+
+| Room Type       | Bed Size       | Price (per night) | Breakfast         |
+|------------------|----------------|--------------------|-------------------|
+| 1 King Bed       | 1 × 1.8 m      | CNY 550            | CNY 50 per person |
+| 2 Double Beds    | 2 × 1.35 m     | —                  | —                 |
