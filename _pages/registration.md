@@ -14,7 +14,25 @@ AICIT has a limited room block in the conference hotel, which is “first come, 
 
 Room type
 
-| Room Type       | Bed Size       | Price (per night) | Breakfast         |
-|------------------|----------------|--------------------|-------------------|
-| 1 King Bed       | 1 × 1.8 m      | CNY 550            | CNY 50 per person |
-| 2 Double Beds    | 2 × 1.35 m     | —                  | —                 |
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Room Type</th>
+      <th>Bed Size</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 King Bed</td>
+      <td>1 × 1.8 m</td>
+      <td>CNY 550 per night<br>CNY 50 per breakfast</td>
+    </tr>
+    <tr>
+      <td>2 Double Beds</td>
+      <td>2 × 1.35 m</td>
+      <td>—</td>
+    </tr>
+  </tbody>
+</table>
+
