@@ -10,7 +10,8 @@ All attendees must <a href="https://forms.office.com/r/PTiHsBfg4x" target="_blan
 
 **Accommodation**
 
-AICIT has a limited room block in the conference hotel, which is “first come, first served”. We can help to make the reservation according to the registration and you settle the payment upon arrival. 
+From July 27 to 29, AICIT has limited room block in conference hotel, which is “first come, first served”. We can help to make the reservation according to the registration and you settle the payment upon arrival.
+
 
 Room type
 
@@ -38,3 +39,28 @@ Room type
   </tbody>
 </table>
 
+For the night of July 29, as the conference hotel is full house now, we will send you to the Panyu Hotel if you join the industry investigation. If the conference hotel has limited room availability later, we will arrange as first come, first served.
+
+
+<table border="1" cellpadding="8" cellspacing="0">
+  <thead>
+    <tr>
+      <th>Room Type</th>
+      <th>Bed Size</th>
+      <th>Price</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>1 King Bed</td>
+      <td>1 × 1.8 m</td>
+      <td rowspan="2">
+        CNY 498 per night with breakfast
+      </td>
+    </tr>
+    <tr>
+      <td>2 Double Beds</td>
+      <td>2 × 1.2 m</td>
+    </tr>
+  </tbody>
+</table>
