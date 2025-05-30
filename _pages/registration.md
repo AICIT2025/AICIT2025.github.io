@@ -26,12 +26,14 @@ Room type
     <tr>
       <td>1 King Bed</td>
       <td>1 × 1.8 m</td>
-      <td>CNY 550 per night<br>CNY 50 per breakfast</td>
+      <td rowspan="2">
+        CNY 550 per night<br>
+        CNY 50 per breakfast
+      </td>
     </tr>
     <tr>
       <td>2 Double Beds</td>
       <td>2 × 1.35 m</td>
-      <td>—</td>
     </tr>
   </tbody>
 </table>
