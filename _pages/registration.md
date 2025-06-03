@@ -41,5 +41,6 @@ Room type
   </tbody>
 </table>
 
+
 For the night of July 29, as conference hotel is full house now, we will offer alternatives for you or you could book it by yourself. If conference hotel has limited room availability later, we will arrange as first come, first served.
 
