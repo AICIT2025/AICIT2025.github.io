@@ -49,6 +49,10 @@ Professor Shancheng Zhao
 **Bio:** 
 Shancheng Zhao received the bachelor’s degree in software engineering and Ph.D. degree in communication and information systems from Sun Yat-sen University, Guangzhou, China, in 2009 and 2014, respectively. From 2013 to 2014, he was a Graduate Visiting Student with the University of California at Los Angeles, Los Angeles, CA, USA. He is currently a Professor and Vice Dean of the College of Information Science and Technology, Jinan University, Guangzhou. His current research interests include finite-length codes, spatially coupled codes, and their applications. He was a co-recipient of the Best Paper Award at the IEEE GlobeCom. He serves as an Associate Editor for IET Quantum Communication, Physical Communication (Elsevier), and Alexandria Engineering Journal.
 
+**Title:** Multiply-Chained Product Code: Construction, Design, and Decoding
+
+**Abstract:** We introduce the multiply-chained product-like codes in this talk, including its construction, design, and decoding. We first introduce and analyze the multiply-chained zipper codes. We then introduce and analyze the GII-zipper codes. We finally introduce an efficient decoder for product-like codes based on random flipping. 
+
 Professor Pascal O. Vontobel
 -----
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/092f8aa4-1171-4acf-8321-654c611c85cf" />
