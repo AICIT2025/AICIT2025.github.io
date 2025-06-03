@@ -53,6 +53,17 @@ Shancheng Zhao received the bachelor’s degree in software engineering and Ph.D
 
 **Abstract:** We introduce the multiply-chained product-like codes in this talk, including its construction, design, and decoding. We first introduce and analyze the multiply-chained zipper codes. We then introduce and analyze the GII-zipper codes. We finally introduce an efficient decoder for product-like codes based on random flipping. 
 
+
+Professor Suihua Cai
+-----
+
+**Title:**
+Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders
+
+**Abstract:**
+Block Markov Superposition Transmissions are a class of spatial coupling construction for block codes to improve performance. 
+Unlike spatially coupled LDPC codes, BMST-LDPC code offer the advantage of directly reutilizing the encoder and decoder of the existing basic LDPC codes. However, the dependence between BMST layers introduces substantial decoding delays. This talk proposes to address this challenge by introducing the layered decoding of QC-LDPC codes in the BMST system. By exploiting the parallel processing capabilities of layered decoding across BMST layers, we design the cooperate layered decoding for BMST-LDPC codes. The proposed coding scheme may find applications in scenarios requiring high-throughput and reliable data transmission, such as future wireless networks and high-speed storage devices, where QC-LDPC codes are widely adopted.
+
 Professor Pascal O. Vontobel
 -----
 <img width="100" alt="image" src="https://github.com/user-attachments/assets/092f8aa4-1171-4acf-8321-654c611c85cf" />
