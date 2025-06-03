@@ -14,7 +14,6 @@ All attendees must register and receive a conference badge in order to participa
 
 From July 27 to 29, AICIT has limited room block in conference hotel, which is “first come, first served”. We can help to make the reservation according to the registration and you settle the payment upon arrival.
 
-
 Room type
 
 <table border="1" cellpadding="8" cellspacing="0">
