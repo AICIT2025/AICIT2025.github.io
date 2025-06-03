@@ -41,28 +41,5 @@ Room type
   </tbody>
 </table>
 
-For the night of July 29, as the conference hotel is full house now, we will send you to the Panyu Hotel if you join the industry investigation. If the conference hotel has limited room availability later, we will arrange as first come, first served.
+For the night of July 29, as conference hotel is full house now, we will offer alternatives for you or you could book it by yourself. If conference hotel has limited room availability later, we will arrange as first come, first served.
 
-
-<table border="1" cellpadding="8" cellspacing="0">
-  <thead>
-    <tr>
-      <th>Room Type</th>
-      <th>Bed Size</th>
-      <th>Price</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>1 King Bed</td>
-      <td>1 × 1.8 m</td>
-      <td rowspan="2">
-        CNY 498 per night with breakfast
-      </td>
-    </tr>
-    <tr>
-      <td>2 Double Beds</td>
-      <td>2 × 1.2 m</td>
-    </tr>
-  </tbody>
-</table>
