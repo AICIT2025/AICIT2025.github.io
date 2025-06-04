@@ -206,7 +206,11 @@ Professor Hanxu Hou
 <img width="142" alt="image" src="https://github.com/user-attachments/assets/ae4f553d-48a8-45e5-b6b4-db83edeb04f4" />
 
 
-Hanxu Hou received the B.Eng. degree in Information Security from Xidian University, Xian, China, in 2010, and Ph.D. degrees in the Dept. of Information Engineering from The Chinese University of Hong Kong in 2015 and in the School of Electronic and Computer Engineering from Peking University in 2016. He is currently with Dongguan University of Technology, and Senior Researcher in Theory Lab of Hong Kong Research Center, HUAWEI. He was a recipient of the 2020 Chinese Information Theory Young Rising Star Award by China Information Theory Society. He was recognized as an Exemplary Reviewer 2020 in IEEE Transactions on Communications. His research interests include coding theory and coding for distributed storage systems.
+**Bio:** Hanxu Hou received the B.Eng. degree in Information Security from Xidian University, Xian, China, in 2010, and Ph.D. degrees in the Dept. of Information Engineering from The Chinese University of Hong Kong in 2015 and in the School of Electronic and Computer Engineering from Peking University in 2016. He is currently with Dongguan University of Technology, and Senior Researcher in Theory Lab of Hong Kong Research Center, HUAWEI. He was a recipient of the 2020 Chinese Information Theory Young Rising Star Award by China Information Theory Society. He was recognized as an Exemplary Reviewer 2020 in IEEE Transactions on Communications. His research interests include coding theory and coding for distributed storage systems.
+
+**Title:** Fast RS code encoding and decoding Algorithms for storage systems
+
+**Abstract:** In this talk, we will present a method to design a novel class of composite field and construct new RS codes based on the composite field. Then, we propose efficient methods for key steps in RS code encoding/decoding, including syndrome calculation, parity/erasure symbols generation, and Chien search. We show that our RS codes have lower encoding/decoding complexity than the existing  algorithms.
 
 
 Professor Li Congduan
