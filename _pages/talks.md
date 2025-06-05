@@ -57,6 +57,11 @@ Shancheng Zhao received the bachelor’s degree in software engineering and Ph.D
 Professor Suihua Cai
 -----
 
+![WechatIMG0d3a204e4bb0f1c2339eae0af9d55470](https://github.com/user-attachments/assets/d1a3339e-dd47-4e95-a3c4-df89eb16e33a)
+
+
+**Bio:** Cai Suihua is an associate professor at the School of Computer Science, Sun Yat-sen University. He obtained his Ph.D. in Information and Communication Engineering from Sun Yat-sen University in 2019. His research interests are in information theory, channel coding and their applications. In recent years, he has published more than 20 papers in journals such as Transaction on Information Theory and Transactions on Communications, as well as important information theory conferences like ISIT (International Symposium on Information Theory). He has also been authorized 11 invention patents.
+
 **Title:**
 Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders
 
