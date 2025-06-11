@@ -6,7 +6,7 @@ author_profile: false
 ---
 
 | Time          | Event |
-|---------------|-------|
+|---------------------|-------|
 | **July 27**  |       |
 | 09:00-14:00  | Registration |
 | 14:00-14:15  | Opening speech |
