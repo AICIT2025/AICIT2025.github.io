@@ -7,8 +7,6 @@ author_profile: false
 
 
 
-<!DOCTYPE html>
-<html>
 <head>
     <style>
         table {
