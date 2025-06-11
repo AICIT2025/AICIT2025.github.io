@@ -5,11 +5,11 @@ permalink: /Program/
 author_profile: false
 ---
 
-| Time          | Event |
-|---------------------|-------|
-| **July 27**  |       |
-| 09:00-14:00  | Registration |
-| 14:00-14:15  | Opening speech |
+| Time                               | Event |
+|------------------------------------|-------|
+| **July 27**                        |       |
+| 09:00-14:00                        | Registration |
+| 14:00-14:15                        | Opening speech |
 | 14:15-15:15  | Professor Pascal O. Vontobel: On counting arrays with certain properties |
 | 15:15-15:55  | Professor Shancheng Zhao: Multiply-Chained Product Code: Construction, Design, and Decoding |
 | 15:55-16:35  | Professor Suihua Cai: Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders |
