@@ -31,4 +31,4 @@ author_profile: false
 | 16:30-17:10  | Professor Ziye Ma: Leveraging Change of Parametrization to Navigate Non-convex Optimization Landscape |
 | 17:10-18:10  | Student poster session |
 | **July 29**  |       |
-｜ 09:00-11:30 ｜ Visiting ｜
+| 09:00-11:30  | Visiting |
