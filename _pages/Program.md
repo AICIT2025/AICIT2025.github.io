@@ -6,37 +6,6 @@ author_profile: false
 ---
 
 
-
-<head>
-    <style>
-        table {
-            width: 100%;
-            border-collapse: collapse;
-            font-family: Arial, sans-serif;
-            margin: 20px 0;
-        }
-        th, td {
-            padding: 12px 15px;
-            text-align: left;
-            border-bottom: 1px solid #ddd;
-        }
-        th {
-            background-color: #f2f2f2;
-            font-weight: bold;
-        }
-        tr.day-header {
-            background-color: #e6f3ff;
-            font-weight: bold;
-        }
-        tr:hover {
-            background-color: #f5f5f5;
-        }
-        .time-col {
-            width: 120px;
-            font-weight: bold;
-        }
-    </style>
-</head>
 <body>
     <table>
         <thead>
