@@ -12,7 +12,7 @@ author_profile: false
 | Candidate                | Institute                                       |  
 |--------------------------|-------------------------------------------------|  
 | Anand D. Sarwate         | The State University of New Jersey              |
-| Hanxu Hou                | Dongguan University of Technology               |  
+| Pingzhi Fan              | Southwest Jiaotong University                   |  
 | Shancheng Zhao           | Jinan University                                |  
 | Suihua Cai               | Sun Yat-sen University                          |  
 | Congduan Li              | Sun Yat-sen University                          |  
@@ -211,18 +211,17 @@ Sparse Affine Sampling for Ambiguity-Free and Efficient Sparse Phase Retrieval
 **Abstract:**
 Conventional sparse phase retrieval schemes can recover sparse signals from the magnitude of linear measurements only up to a global phase ambiguity. In this talk, we will introduce a novel approach that instead utilizes the magnitude of affine measurements to achieve ambiguity-free signal reconstruction. The proposed method relies on two-stage approach that consists of support identification followed by the exact recovery of nonzero signal entries. In the noise-free case, perfect support identification using a simple counting rule is guaranteed subject to a mild condition on the signal sparsity, and subsequent exact recovery of the nonzero signal entries can be obtained in closed-form. The proposed approach is then extended to the bounded noise scenario. In this setting, perfect support recovery still holds under mild conditions on the noise power, and robust signal reconstruction up to a bounded error can be achieved using linear least-squares estimation. The obtained analytic performance guarantee also sheds light on the construction of the sensing matrix and bias vector. In particular, we show that a near optimal performance can be achieved with high probability using a random construction scheme.
 
-Professor Hanxu Hou
+Professor Pingzhi Fan
 -----
 
-<img width="142" alt="image" src="https://github.com/user-attachments/assets/ae4f553d-48a8-45e5-b6b4-db83edeb04f4" />
+<img width="194" alt="image" src="https://github.com/user-attachments/assets/e6f283ec-ac7c-499c-bb00-50af7080fb20" />
 
 
-**Bio:** Hanxu Hou received the B.Eng. degree in Information Security from Xidian University, Xian, China, in 2010, and Ph.D. degrees in the Dept. of Information Engineering from The Chinese University of Hong Kong in 2015 and in the School of Electronic and Computer Engineering from Peking University in 2016. He is currently with Dongguan University of Technology, and Senior Researcher in Theory Lab of Hong Kong Research Center, HUAWEI. He was a recipient of the 2020 Chinese Information Theory Young Rising Star Award by China Information Theory Society. He was recognized as an Exemplary Reviewer 2020 in IEEE Transactions on Communications. His research interests include coding theory and coding for distributed storage systems.
+**Bio:** Pingzhi Fan received his MSc degree in Computer Science from the Southwest Jiaotong University (SWJTU), PRC, in 1987, and Ph.D. degree in Electronic Engineering from the Hull University, U.K., in 1994. He is currently a distinguished professor of SWJTU, director of the institute of mobile communications, and honorary dean of the Sino-UK SWJTU-Leeds Joint School. He is also a visiting/guest professor of Leeds University (UK, 1997-) and Shanghai Jiaotong University (China, 1999-); and an honorary professor of the University of Nottingham Ningbo China (UNNC, 2025.1-). He served as vice president for academic affairs of SWJTU between 2007-2014, dean of the graduate school (SWJTU) between 2007-2012, dean of the school of info sci & tech (SWJTU) between 1998-2008. He has published over 900 research works, including 8 books and edited books published by John Wiley & Sons Ltd, RSP, Springer, IEEE Press, Nova Science Publishers, etc., over 430 journal papers published in various internationally renowned English journals (IEEE Trans on Com, IEEE Trans on WC, IEEE Trans on VT, IEEE Trans on IT, IEEE JSAC, IEEE Trans on SP, IEEE Trans on PDS, IEEE Trans on Computer, IEEE CL/WCL, IEICE Trans on Fundamentals, IEE/IET Electronic Letters, IEE Proc on Communications etc.), as well as over 160 Chinese journal papers and over 330 referred international conference papers. He is also an inventor of 30+ granted Chinese and PCT patents. His works has been cited 30,280+ times, h-index=71, Google Scholar, 30 March 2025.
 
-**Title:** Fast RS code encoding and decoding Algorithms for storage systems
+**Title:** Non-Uniform Pilot Pattern for Sparse Channel Estimation in MIMO-OFDM Systems Based on Difference Set
 
-**Abstract:** In this talk, we will present a method to design a novel class of composite field and construct new RS codes based on the composite field. Then, we propose efficient methods for key steps in RS code encoding/decoding, including syndrome calculation, parity/erasure symbols generation, and Chien search. We show that our RS codes have lower encoding/decoding complexity than the existing  algorithms.
-
+**Abstract:** OFDM performs well in frequency-selective channels by resisting multipath interference. Due to the limited number of effective multipath components in wireless environments, the channel impulse response often exhibits sparsity in the time domain. This enables sparse channel estimation with high accuracy and low pilot overhead. While Cyclic Difference Sets (CDS)-based pilot schemes perform well in single-antenna systems, they may cause severe interference in Multiple-Input Multiple-Output (MIMO) scenarios. To address this problem, this talk introduces the concept of Identical Multi-set Intersection (IMI) for pilot design in MIMO-OFDM systems, effectively suppressing inter-antenna interference. In addition, two pilot placement strategies, Zero Setting (ZS) and Partial Orthogonal Covering Codes (POCC), are proposed. Our results confirm that the proposed methods significantly improve the estimation accuracy in MIMO-OFDM systems.
 
 Professor Li Congduan
 -----
