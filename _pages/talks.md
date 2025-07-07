@@ -35,11 +35,16 @@ Professor Anand D. Sarwate (Distinguished Lecture of ITSoc)
 
 <img width="102" alt="image" src="https://github.com/user-attachments/assets/09fbfeed-db3d-435c-9f3a-8050304f6436" />
 
+**Bio:**
 I am an Associate Professor in the Department of Electrical and Computer Engineering at Rutgers, The State University of New Jersey. I also am a member of the graduate faculty in the Department of Computer Science and the Department of Statistics. I like to work on problems that involve probability, mathematical statistics, and optimization, with applications in information theory, communication, signal processing, and machine learning. I’m particularly interested in how these things intersect in the context of distributed/decentralized systems with constraints like privacy, bandwidth, latency, power, and so on.
 
 Area of Expertise: Distributed optimization and signal processing, machine learning and statistics, information theory, and privacy-preserving data analysis.
 
+**Title:**
+Are modern ML models like scientific instruments?
 
+**Abstract:**
+The landscape of machine learning evolves rapidly and the complexity of the networks and their architectures defies easy comprehension. AI is touted as the next "scientific revolution" by allowing the processing and pattern-finding in increasingly massive data sets. The fine-tuning paradigm assumes that the features extracted by large pre-trained models are useful for many downstream tasks, which is similar to data collected from “classical” measurement devices such as cameras or medical scanners. While functionally playing similar roles, our understanding for and requirements of scientific instruments is quite different. Digging into these differences turns up some interesting fundamental things we still need to understand about training processes, how to compare models, and how feature embeddings can be used. While the results in this talk are largely empirical, they point to interesting directions for (infomation?) theoretical investigation.
 
 Professor Shancheng Zhao
 -----
