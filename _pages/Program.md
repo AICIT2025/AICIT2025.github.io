@@ -11,10 +11,10 @@ author_profile: false
 | 09:00-14:00       | Registration |
 | 14:00-14:15       | Opening speech |
 | 14:15-15:15       | Professor Pascal O. Vontobel: On counting arrays with certain properties |
-| 15:15-15:55       | Professor Shancheng Zhao: Multiply-Chained Product Code: Construction, Design, and Decoding |
+| 15:15-15:55       | Professor Pingzhi Fan: Non-Uniform Pilot Pattern for Sparse Channel Estimation in MIMO-OFDM Systems Based on Difference Set  |
 | 15:55-16:35       | Professor Suihua Cai: Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders |
 | 16:35-17:05       | Coffee break, group photo |
-| 17:05-17:45       | Professor Pingzhi Fan: Non-Uniform Pilot Pattern for Sparse Channel Estimation in MIMO-OFDM Systems Based on Difference Set       |
+| 17:05-17:45       | Professor Shancheng Zhao: Multiply-Chained Product Code: Construction, Design, and Decoding   |
 | 17:45-18:25       | Professor Hsin-Po Wang: Sculpting Rational Distributions Accurately and Efficiently |
 | 18:25-20:50       | Banquet |
 | **July 28**       |       |
