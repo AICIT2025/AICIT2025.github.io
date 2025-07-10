@@ -13,8 +13,8 @@ author_profile: false
 |--------------------------|-------------------------------------------------|  
 | Anand D. Sarwate         | The State University of New Jersey              |
 | Pingzhi Fan              | Southwest Jiaotong University                   |  
-| Shancheng Zhao           | Jinan University                                |  
 | Suihua Cai               | Sun Yat-sen University                          |  
+| Shancheng Zhao           | Jinan University                                |  
 | Congduan Li              | Sun Yat-sen University                          |  
 | Pascal Vontobel          | The Chinese University of Hong Kong             |  
 | Farzan Farnia            | The Chinese University of Hong Kong             |  
