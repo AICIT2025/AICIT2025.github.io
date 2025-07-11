@@ -18,7 +18,7 @@ author_profile: false
 | 17:40-18:20       | Professor Hsin-Po Wang: Sculpting Rational Distributions Accurately and Efficiently |
 | 18:20-20:45       | Banquet |
 | **July 28**       |       |
-| 09:00-10:00       | Professor Anand D. Sarwate |
+| 09:00-10:00       | Professor Anand D. Sarwate: Are modern ML models like scientific instruments? |
 | 10:00-10:40       | Professor Chao-Kai Wen: End-User MIMO Evolution toward 6G |
 | 10:40-11:10       | Coffee break |
 | 11:10-11:50       | Professor Chu-Hsiang Huang: Air-Interface Design for Life Cycle Management and Interoperability of AI/ML Models in Wireless Communication Systems |
