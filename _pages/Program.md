@@ -9,14 +9,14 @@ author_profile: false
 |--------------------|-------|
 | **July 27**       |       |
 | 09:00-14:00       | Registration |
-| 14:00-14:15       | Opening speech |
-| 14:15-15:15       | Professor Pascal O. Vontobel: On counting arrays with certain properties |
-| 15:15-15:55       | Professor Pingzhi Fan: Non-Uniform Pilot Pattern for Sparse Channel Estimation in MIMO-OFDM Systems Based on Difference Set  |
-| 15:55-16:35       | Professor Suihua Cai: Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders |
-| 16:35-17:05       | Coffee break, group photo |
-| 17:05-17:45       | Professor Shancheng Zhao: Multiply-Chained Product Code: Construction, Design, and Decoding   |
-| 17:45-18:25       | Professor Hsin-Po Wang: Sculpting Rational Distributions Accurately and Efficiently |
-| 18:25-20:50       | Banquet |
+| 14:00-14:10       | Opening speech |
+| 14:10-15:10       | Professor Pascal O. Vontobel: On counting arrays with certain properties |
+| 15:10-15:50       | Professor Pingzhi Fan: Non-Uniform Pilot Pattern for Sparse Channel Estimation in MIMO-OFDM Systems Based on Difference Set  |
+| 15:50-16:30       | Professor Suihua Cai: Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders |
+| 16:30-17:00       | Coffee break, group photo |
+| 17:00-17:40       | Professor Shancheng Zhao: Multiply-Chained Product Code: Construction, Design, and Decoding   |
+| 17:40-18:20       | Professor Hsin-Po Wang: Sculpting Rational Distributions Accurately and Efficiently |
+| 18:20-20:45       | Banquet |
 | **July 28**       |       |
 | 09:00-10:00       | Professor Anand D. Sarwate |
 | 10:00-10:40       | Professor Chao-Kai Wen: End-User MIMO Evolution toward 6G |
