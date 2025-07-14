@@ -10,7 +10,7 @@ author_profile: false
 | **July 27**       |       |
 | 09:00-14:00       | Registration |
 | 14:00-14:10       | Opening speech |
-| 14:10-15:10       | Professor Pascal O. Vontobel: On counting arrays with certain properties |
+| 14:10-15:10       | Professor Pascal O. Vontobel: On Counting Arrays with Certain Properties |
 | 15:10-15:50       | Professor Pingzhi Fan: Non-Uniform Pilot Pattern for Sparse Channel Estimation in MIMO-OFDM Systems Based on Difference Set  |
 | 15:50-16:30       | Professor Suihua Cai: Block Markov Superposition Transmission of LDPC Codes with High-Throughput Cooperative Layered Decoders |
 | 16:30-17:00       | Coffee break, group photo |
