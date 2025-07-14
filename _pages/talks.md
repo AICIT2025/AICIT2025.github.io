@@ -89,7 +89,7 @@ Dr. Vontobel was an Associate Editor for the IEEE Transactions on Information Th
 
 
 **Title:**
-On counting arrays with certain properties
+On Counting Arrays with Certain Properties
 
 **Abstract:**
 Consider the set of arrays of size n by n that contain only zeros and ones. How many of these arrays have exactly k ones per column and k ones per row? For k = 1, it is straightforward to find the answer (n factorial). However, for k > 1, solving this problem (even approximately) becomes more interesting and challenging.
